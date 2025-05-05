@@ -1,0 +1,13 @@
+/*
+ * This file has been created by the Vaadin Theme Editor. Please note that
+ * manual changes to individual CSS properties may be overwritten by the theme editor.
+ */
+vaadin-button.machines-view-button-1 {}
+
+vaadin-grid.machines-view-grid-1::part(body-cell) { background-color:rgba(0,0,0,0); }
+
+vaadin-grid.produits-view-grid-1::part(body-cell) { background-color:rgba(0,0,0,0); }
+
+vaadin-grid::part(body-cell) { background-color:rgba(0,0,0,0); }
+
+vaadin-vertical-layout.machines-view-vertical-layout-1 {}
